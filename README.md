@@ -4,4 +4,4 @@ It uses the Monaco font for all windows.
 
 You can freely use it.
 
-![Alt text](http://github.com/fiernot/jaimed-theme/screenshot.png?raw=true "jaimed theme for LimeChat")
+![Alt text](https://github.com/fiernot/jaimed-theme/blob/master/screenshot.png?raw=true "jaimed theme for LimeChat")
